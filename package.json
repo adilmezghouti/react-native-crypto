@@ -24,9 +24,9 @@
     "create-hmac": "^1.1.0",
     "diffie-hellman": "^5.0.0",
     "inherits": "^2.0.1",
-    "pbkdf2": "3.0.8",
     "public-encrypt": "^4.0.0",
-    "randomfill": "^1.0.3"
+    "randomfill": "^1.0.3",
+    "react-native-fast-pbkdf2": "https://github.com/adilmezghouti/react-native-fast-pbkdf2"
   },
   "peerDependencies": {
     "react-native-randombytes": ">=2.0.0 <4.0.0"
