@@ -26,7 +26,8 @@
     "inherits": "^2.0.1",
     "public-encrypt": "^4.0.0",
     "randomfill": "^1.0.3",
-    "react-native-fast-pbkdf2": "https://github.com/adilmezghouti/react-native-fast-pbkdf2"
+    "react-native-fast-pbkdf2": "https://github.com/adilmezghouti/react-native-fast-pbkdf2",
+    "react-native-quick-base64": "^2.0.3"
   },
   "peerDependencies": {
     "react-native-randombytes": ">=2.0.0 <4.0.0"
